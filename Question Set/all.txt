@@ -9,7 +9,7 @@ You may declare a major in the Spring term of your sophomore year. All students 
 Step 1: Prepare to declare by identifying an intended major and planning a pathway to graduation. Step 2: Advisor Meeting. Step 3: Major Declaration Application Form
 
 # Can I change my declared major?
-Yes, but before you do so, please refer to the UG Bulletin and the DKU Degree Requirement Sheet about the new major requirements and work out a new 4-year graduation plan. This kind of planning is to make sure that you can graduate on time. The next step is to consult your academic advisor about the new major and your plan. After that, you can request to change your major by submitting a form to the Office of the University Registrar. Major Change Form may be found on the Registrar’s website under ‘Student Forms’ (https://www.dukekunshan.edu.cn/about/student-records-and-resources/). No changes in majors can be made after the end of the Drop/Add period of the first session of the Fall term in the senior year. Every change of major request is subject to review and is not guaranteed approval.
+Yes, but before you do so, please refer to the UG Bulletin and the DKU Degree Requirement Sheet about the new major requirements and work out a new 4-year graduation plan. This kind of planning is to make sure that you can graduate on time. The next step is to consult your academic advisor about the new major and your plan. After that, you can request to change your major by submitting a form to the Office of the University Registrar. Major Change Form may be found on the Registrar's website under "Student Forms" (https://www.dukekunshan.edu.cn/about/student-records-and-resources/). No changes in majors can be made after the end of the Drop/Add period of the first session of the Fall term in the senior year. Every change of major request is subject to review and is not guaranteed approval.
 
 
 # What are the core components of the DKU Curriculum?
@@ -176,7 +176,7 @@ During any semester, a single grade of F (or NC) while enrolled in 16 or more cr
 # What is considered Academic Probation?
 For the Class of 2022 to 2024: For students enrolled in a normal course load (16 or more credits), the following scenarios will put you in Academic Probation standing: In the first semester of the freshman, you received DD, DF, and FF. In any other semesters, you received DDD, DF, or FF. During two consecutive semesters, you received DDDD, DDDF, or DDFF. For students enrolled in authorized underload (fewer than 16 credits): In the first semester of the freshman, you received DD, F. In any other semesters, you received DDD or DF. During two consecutive semesters, you received DDDD, DDDF, or DDFF. All students should pass at least 12 credits; students who fail to pass 12 credits do not meet the semester continuation requirement and thus are subject to academic suspension. For the Class of 2025 and beyond At the end of each fall and spring semester, failure to meet a 2.0 GPA (either a term GPA or a cumulative GPA) will result in academic probation for the following semester. 
 
-# What should I do if I’m placed on academic probation?
+# What should I do if I am placed on academic probation?
 You must acknowledge your probationary status to the Office of Undergraduate Studies in writing to continue at the university. In most cases, this acknowledgment will go through Academic Advising, which is part of Undergraduate Studies. You are required to meet with the Director of Academic Advising before the Drop/Add deadline. You will be matched with an Academic Success Coach and are expected to meet with them periodically. You are also expected to seek assistance from other campus resources and meet with your academic advisor periodically. You are expected to clear your probationary status during the semester of probation.
 
 # How do I clear my probationary status?
@@ -205,10 +205,10 @@ Yes. A maximum of 8 may be from coursework undertaken while on voluntary leave o
 No credit will be accepted for coursework taken while a Duke Kunshan University student is withdrawn, suspended, or on involuntary leave of absence. 
 
 
-# How do I get on the Dean’s List?
+# How do I get on the Dean's List?
 You must earn a grade point average for a semester that places them in the highest third of undergraduates in their class year and in addition, must (1) complete at least 16 credits for a regularly assigned grade (i.e., no Credit/No Credit courses); (2) receive no incomplete (I) or failing (F, NC) grades (including PE courses).
 
-# What is the Dean’s List with Distinction honor?
+# What is the Dean's List with Distinction honor?
 Students who in addition earn semester grade point averages that place them in the highest 10% of undergraduates in their class year will receive the Dean’s List with Distinction honor, while the remainder of those placing in the highest one-third will receive the Dean’s List honor.
 
 # What are the Latin Honors?
