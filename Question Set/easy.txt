@@ -1,1 +1,36 @@
+# How do I drop or add a course?
+Students may drop and add courses during the Drop/Add period at their own discretion. Courses dropped during this period do not appear on the official Duke Kunshan transcript. After the Drop/Add period, no course may be added; also, a course may not be changed to, or from, the audit basis. A student may elect to change the grading basis to Credit/No Credit following the deadlines outlined in the section on Credit/No Credit Grading System.
 
+# Can I change my course schedule after enrollment?
+You can change your course schedule after enrollment during the Drop/Add period at Duke Kunshan University. After the Drop/Add period, no course may be added; also, a course may not be changed to, or from, the audit basis.
+
+# What are the prerequisites for STATS 302 at DKU?
+Prerequisite: MATH 201, MATH 202, MATH 206, and COMPSCI 201. Anti-requisite: MATH 405, and COMPSCI 309.
+
+# I want to major in Data Science, what course should I take to get an overview of it?
+To get to know more about the data science major you should take the STATS 102 class - Introduction to Data Science. As an introductory course in data science, this course will show students not only the big picture of data science but also the detailed essential skills of loading, cleaning, manipulating, visualizing, analyzing, and interpreting data with hands-on programming experience.
+
+# I am interested in Natural Language Processing. Are there any courses at DKU that cover this topic?
+You can explore courses like COMPSCI 309: Elements of Machine Learning: This course covers machine learning techniques including hidden Markov models and neural networks, which are important for NLP. Also, COMPSCI 303: Search Engines: This course dives into topics like text classification and clustering, relevant to NLP applications.
+
+# What majors are available at Duke Kunshan University?
+Applied Mathematics and Computational Sciences with tracks in Computer Science and Mathematics; Arts & Media Major with tracks in Arts and Media; Behavioral Science with tracks in Psychology and Neuroscience; Computation and Design with tracks in Computer Science, Digital Media, and Social Policy; Cultures and Movements with tracks in Cultural Anthropology, Sociology, Religious Studies, and World History; Data Science; Environmental Science with tracks in Biogeochemistry, Biology, Chemistry, and Public Policy; Ethics and Leadership with tracks in Philosophy and Public Policy; Global China Studies with tracks in Chinese History, Political Science and Religious Studies; Global Cultural Studies with tracks in Creative Writing and Translation, World History, and World Literature; Global Health with Tracks in Biology and Public Policy; Institutions and Governance with tracks in Economics, Political Science, and Public Policy; Materials Science with tracks in Chemistry and Physics; Molecular Bioscience with Tracks in Biogeochemistry, Biophysics, Cell and Molecular Biology, Genetics and Genomics; Political Economy with tracks in Economics, Political Science, and Public Policy; US Studies with tracks in American History, American Literature, Political Science, and Public Policy
+
+# Are there advisors who can guide me in selecting a major?
+Yes, Duke Kunshan University provides academic advisors who can guide you in selecting a major. Each student is assigned an academic advisor who helps develop a comprehensive academic plan, outlining the courses you anticipate taking to ensure you meet the established graduation requirements. This process includes discussions about your academic interests and career goals, which can significantly aid in choosing a suitable major.
+
+# How do I choose a major?
+To choose a major at Duke Kunshan University, follow these steps based on the university’s guidelines: 1. Explore Various Disciplines: During your initial terms, you are encouraged to explore different disciplines and take various foundational courses. This broad exploration helps you make an informed decision about which major aligns best with your interests and career goals. 2. Consult with Academic Advisors: You will be assigned an academic advisor who can help you understand the requirements and outcomes of different majors. Engaging with your advisor and other faculty members can help you develop a long-range academic plan, outlining the courses you anticipate taking. 3. Declare Your Major Formally: You are required to declare your major by the last teaching day of the first seven-week session in your fourth term at the latest. The declaration process involves securing formal approval of your long-range academic plan from your advisor, ensuring that your plan meets the established graduation requirements. By following these steps, you will be better prepared to select a major that aligns with your academic and professional aspirations at Duke Kunshan University.
+
+# Can I switch my major later on? How?
+Students who have declared a major and wish to change it may do so by submitting a form to the
+Office of the Registrar. No changes in majors can be made after the end of the Drop/Add period of the first session of the fall term in the senior year.
+
+# I would like to major in Data Science, what are the professors within this major that I can reach out to?
+There are no specific Data Science professors mentioned in the bulletin.
+
+# How can I find tutoring services?
+Tutorial support is supplemental to course instruction. Learning Consultants, our full-time learning professionals, work in collaboration with instructors to discern how to best facilitate student learning and development. Students also receive group and one-on-one support from our peer tutors, undergraduate students who have completed applicable courses. Peer tutoring is an excellent way to hone skills and strategies in a friendly and supportive community. All tutors receive internationally certified training by the College Reading and Learning Association. As for specific time slots for different tutoring sessions, there is no information in this regard in the DKU bulletin.
+
+# How do I access the library and online databases?
+There are no specific guidelines in this regard. But consider contacting the DKU Library at: dkulibrary@dukekunshan.edu.cn.
