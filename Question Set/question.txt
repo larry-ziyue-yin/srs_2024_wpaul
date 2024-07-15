@@ -34,3 +34,5 @@ Tutorial support is supplemental to course instruction. Learning Consultants, ou
 
 # How do I access the library and online databases?
 There are no specific guidelines in this regard. But consider contacting the DKU Library at: dkulibrary@dukekunshan.edu.cn.
+
+# I would like to major in Data Science, what are the courses I need to take to graduate?
